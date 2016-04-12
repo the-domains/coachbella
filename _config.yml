@@ -1,0 +1,28 @@
+name: CoachBella
+favicon: null
+layout_spectrum: 0.2222658374812454
+typography_spectrum: 0.43756920797750354
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.2866111444309354
+  lightness: 0.6235822767484933
+  saturation: 0.24306881916709244
+  rhythmicContrast: 0.4937967855948955
+purpose: []
